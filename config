@@ -1,0 +1,10 @@
+Improve AI response generation by switching models and increasing token limits
+
+Update AI model to gpt-5-mini and increase max completion tokens to 8192 for both reply and chat analysis endpoints. Add JSON extraction helper function and refine error handling for AI responses. Update replit.md to reflect backend changes.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0910ed79-3e2b-4967-8fef-74e73ccc5e67
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: d8df0432-d059-4183-8891-2222d288c5d9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/78300e3c-ba59-46db-b571-1fcda36b1589/0910ed79-3e2b-4967-8fef-74e73ccc5e67/z0fYUYG
+Replit-Helium-Checkpoint-Created: true
